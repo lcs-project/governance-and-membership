@@ -99,7 +99,7 @@ Publication of this Specification shall be by a Unanimous Vote of the LCS Leads.
 
 The Governance and Membership Working Committee shall have purview over reviewing any draft that amends any section other than §4. The Code of Conduct Working Committee shall have purview over reviewing any draft that amends §3 or §4. In the case where the Draft amends §3 or amends both §4 and any other section, then both Working Committees shall have purview and both shall be targetted by the Draft.
 
-Any Primary Publication that amends only §2, §3 other than §3.1, or §5, may be published on a Majority Vote of the LCS Leads. 
+Any Primary Publication that amends only §2, §3 other than §3.1, or §4, may be published on a Majority Vote of the LCS Leads. 
 
 ## §6 Non-exclusive with Working Committee Codes of Conduct
 
