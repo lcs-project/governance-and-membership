@@ -93,7 +93,6 @@ The Code of Conduct shall apply to:
 7. Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, indicate this to either the LCS Leads or the relevant Working Committee(s). Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back.
 8. Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
-
 ## §5 Adoption and Amendments
 
 Publication of this Specification shall be by a Unanimous Vote of the LCS Leads. Except as provided otherwise, any Primary Publication that amends this Publication shall also be published only by a Unanimous Vote.
