@@ -26,10 +26,11 @@ The Code of Conduct is Established pursuant to the LCS Project Charter.
 
 The Code of Conduct Technical Working Committee shall be established to make special publications related to the code of conduct, and to review drafts amending the Code of Conduct. In particular, the Working Committee shall review drafts that:
 * Amend any part of §3 or §4 of this Publication,
-* Establish any new rule under the Code of Conduct, or
+* Establish any new principle or applicability provision of the Code of Conduct, or
 * Establish any uniform enforcement rules for the Code of Conduct.
 
 The Code of Conduct Working Committee may make special publications regarding Working Committee Rules and its Working Committee Code of Conduct. It may additionally make Special Publications regarding:
+* Implement any rule consistent with §4 and other Publications that apply to the Applicability and Principles of the Code of Conduct,
 * Interpretations or Clarifications of the Code of Conduct in this or any other Publication,
 * Suggestions for Uniform enforcement by Working Committees, and
 * Suggested enforcement penalties, at both the Project and Working Committee level.
@@ -42,7 +43,7 @@ Until an abreviated name is assigned to the Code of Conduct Working Committee, i
 
 The LCS Leads shall have the sole authority to enforce the Code of Conduct in a manner that applies to the entire project. Such enforcement shall be by Majority Vote.
 
-The LC Admins shall have the authority to enforce the Code of Conduct in such a manner, when their intervention has been requested by the LCS Leads *or* if they may intervening without request, provided that that the situation to which the enforcement applies exceeds the boundaries of the LCS Project and affects LC as a whole.
+The LC Admins shall have the authority to enforce the Code of Conduct in such a manner, when their intervention has been requested by the LCS Leads *or* if they may intervene without request, provided that that the situation to which the enforcement applies exceeds the boundaries of the LCS Project and affects LC as a whole.
 
 No project-level enforcement shall be overturned or questioned by any Working Committee.
 
