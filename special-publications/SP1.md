@@ -14,7 +14,7 @@ Authority: LCS 1 (§2, §8)
 
 Contact: Connor Horman <chorman@lcdev.xyz>
 
-Copyright (C) 2023 Connor Horman. License Notice is present in §10.
+Copyright (C) 2023 Connor Horman. License Notice is present in §12.
 
 This Special Publication is a Draft and does not represent the collective approval of the Working Committee.
 
@@ -123,7 +123,19 @@ The Members of the Working Committee, in using their own knowledge and expertise
 4. How the specification addresses evolution, or defers additional details or constraints, and whether such evolution is handled in an appropriate manner, and
 5. Any other questions they may consider answering while undertaking such review.
 
-## §8 Membership
+## §8 Procedure for Overriding Objections
+
+After any decision, if an objection was raised that caused the decision to not be accepted, then the Working Committee may override the objection after the initial 24 hour objection period, if:
+* The objection was not raised for a vote requiring unanimous approval,
+* A Motion to Override is passed by the working committee,
+* In the case of a Objection after a Decision passed by Vote, or the Motion is passed by a Vote of 2/3s and occurs not less than 7 days after the original decision, and
+* No other member raises a new objection.
+
+The member who brings an objection may withdraw the objection, in which case the decision may be reheard in the same manner as it originally was. A member may not reraise an objection they previously withdrew in a manner.
+
+If an objection is withdrawn or overriden, the member may bring a formal dissent against the action, which shall be recorded by the Working Committeee. 
+
+## §9 Membership
 
 Membership in the Working Committee may be altered by Unanimous Vote. In the case of a member to be removed, the member in question is deemed to have abstained. 
 
@@ -131,17 +143,17 @@ Members may be removed for unreasonable failure to participate in the Working Co
 
 Decisions on Membership shall correspond with making a Special Publication updating the membership of the Working Committee accordingly.
 
-## §9 Code of Conduct, License Restrictions, etc. Reserved
+## §10 Code of Conduct, License Restrictions, etc. Reserved
 
 The Toolchain and Target Naming Working Committee explicitly reserves the right to pass a Code of Conduct as part of its Working Committee Rules, as well as identifying restrictions on Copyright, Patent, or Trademark licenses, notices, and grants required on publications reviewed by this Working Committee.
 
 Special Publications that restrict allowed Copyright, Patent, or Trademark notices only for this Working Committee shall clearly identify such in that Special Publication.
 
-## §10 Approval of this Special Publication
+## §11 Approval of this Special Publication
 
 This Special Publication shall be approved by Unanimous Vote.
 
-## §11 Copyright License
+## §12 Copyright License
 
 This document is released under the terms of the CC BY 4.0. You may copy, distribute, publish, modify, or otherwise use this document provided that this notice is left intact and that you do not use technological measures to prevent further use.
 
